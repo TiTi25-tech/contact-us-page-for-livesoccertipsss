@@ -1,0 +1,66 @@
+
+header{
+    background: linear-gradient( 90deg, rgba(1, 1, 37, 0.815), rgba(126, 49, 62, 0.877)), url(contact\ us\ for\ soccertipss.jpg);
+    background-size: cover;
+    height: 100vh;  
+    position: relative; 
+}
+.us{
+    display: flex;
+    color: white;
+}
+.tips{
+    display: inline-block;
+    padding-top: 5px;
+    margin-left: 20px;
+}
+.con{
+    margin-left: 130px;
+}
+.con ul li{
+    display: flex;
+    display: inline-block;
+    padding-top: 10px;
+    margin-left: 10px;
+}
+.con ul li a{
+    text-decoration: none;
+    color: white;
+}
+.get{
+    position: absolute;
+    left: 1200px;
+    margin-top: 20px;
+    padding: 10px 5px;
+    border-radius: 10px;
+}
+.tact{
+    position: absolute;
+    top: 500px ;
+    left: 600px;
+    font-size: larger;
+    font-weight: 900;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+
+}
+.ask{
+    display: flex;
+    display: inline-block;
+    margin-left: 70px;
+}
+.pls{
+    display: flex;
+    display: inline-block;
+    margin-left: 90px;
+}
+.let{
+    text-align: center;
+}
+.ask a{
+    text-decoration: none;
+}
+.name{
+    width: 90%;
+    height: 30px;
+}
